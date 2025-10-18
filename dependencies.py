@@ -1,4 +1,4 @@
-# dependencies.py
+
 from fastapi import Header, HTTPException, Depends
 from database import fake_users_db
 
